@@ -6,7 +6,7 @@
 
 Olá! Me chamo Alex. Sou desenvolvedor, atualmente, cursando Análise e Desemvolvimento de Sistemas.
 
-Estou buscando minha primeira oportunidade de trabalho e me interesso principalmente por tecnologias relacionadas a backend e fullstack, gosto bastante da área de desenvolvimento e estou bem aberto as dviversas opotunidadesn que esse mervadp tem a oferecer.
+Estou buscando minha primeira oportunidade de trabalho e me interesso principalmente por tecnologias relacionadas a backend e fullstack, gosto bastante da área de desenvolvimento e estou bem aberto as dviversas opotunidades que esse mercado tem a oferecer.
 
 ### Conecte-se comigo
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=for-the-badge)](https://web.dio.me/users/alexsolliveira9/) 
