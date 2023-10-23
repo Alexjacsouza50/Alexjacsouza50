@@ -4,7 +4,7 @@
 
 
 
-Olá! Me chamo Alex. Sou desenvolvedor, atualmente, cursando Análise e Desemvolvimento de Sistemas.
+Olá! Me chamo Alex. Sou desenvolvedor, atualmente, cursando Análise e Desenvolvimento de Sistemas.
 
 Estou buscando minha primeira oportunidade de trabalho e me interesso principalmente por tecnologias relacionadas a backend e fullstack, gosto bastante da área de desenvolvimento e estou bem aberto as dviversas opotunidades que esse mercado tem a oferecer.
 
